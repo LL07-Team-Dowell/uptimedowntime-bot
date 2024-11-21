@@ -23,6 +23,9 @@ const HealthCheckLinks = [
     { url: "https://100009.pythonanywhere.com/", product: "DoWell Clock" },
     { url: "https://100080.pythonanywhere.com/", product: "Legalzard" },
     { url: "https://100098.pythonanywhere.com/", product: "Team Management" },
+    { url: "https://100074.pythonanywhere.com/health-check/", product: "Dowell Location" },
+    { url: "https://liveuxstoryboard.com/health-check", product: "Logo Scan" },
+    { url: "https://datacube.uxlivinglab.online/health_check/", product: "Datacube V2" },
 ];
 
 // Add timeout to axios requests
